@@ -3,7 +3,7 @@
 ![Cover](https://user-images.githubusercontent.com/112888267/204088153-8e61fc81-5dd0-45cc-8ac9-296bb50825ec.png)
 
 ```javascript
-if (location.href == "https://github.com/MEZ901")
+if (location.href == "https://github.com/soufianeargane")
 {
   console.log("Welcome to my GitHub profile!");
 }
