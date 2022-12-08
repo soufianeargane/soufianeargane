@@ -1,8 +1,9 @@
-### Hi there 👋
+###
+<h1>  Hi there 👋 I am Soufiane </h1>
 
-<!--
-**soufianeargane/soufianeargane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🌱 I’m currently learning web development at Youcode ...
+if (location.href == "https://github.com/MEZ901")
+{
+  console.log("Welcome to my GitHub profile!");
+}
+-
 
