@@ -18,8 +18,8 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 
 <h2 align="center">My github stats:</h2>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=soufianeargane&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soufianeargane&hide=html,c&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
@@ -28,7 +28,7 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 <h2 align="center">Reach me out on:</h2>
 <p align="center">
 <a href="mailto: soufianeargane800@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204094054-e8990ae2-4344-4b64-a497-9221e7ba590e.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mez901/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093907-47de4088-b6ef-4232-bcc4-cd450ec76a51.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/issam.mezgueldi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093570-d3bf251f-7551-4ba0-8fca-e7f3134caf6f.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/issam.mez.58/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204094004-60c01ea4-020a-4e47-acf6-69154ded415a.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soufiane-argane-526112256/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093907-47de4088-b6ef-4232-bcc4-cd450ec76a51.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/soufiane_thrn/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093570-d3bf251f-7551-4ba0-8fca-e7f3134caf6f.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010020697847" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204094004-60c01ea4-020a-4e47-acf6-69154ded415a.svg" alt="facebook" height="30" width="40" /></a>
 </p>
