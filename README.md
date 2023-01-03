@@ -10,7 +10,7 @@ if (location.href == "https://github.com/soufianeargane")
 ```
 
 <p align="center">
-I'm 1st year student at YouCode school. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and meverage them to solve real-life problems. I'm currently into web development :)
+As a junior web developer, I am constantly striving to expand my knowledge and skills in order to grow in my career. With experience in a variety of programming languages and frameworks, I have a strong passion for building intuitive and functional websites and applications. On my GitHub profile, you'll find a selection of my personal projects and contributions to open source software. These projects showcase my problem-solving abilities and attention to detail, as well as my commitment to staying up-to-date with the latest technologies. I am always eager to learn and collaborate with other developers, and I welcome the opportunity to work on new and challenging projects. Feel free to take a look around and get in touch if you have any questions or want to work together! :)
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
