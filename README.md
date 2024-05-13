@@ -48,6 +48,6 @@ As a junior web developer, I am constantly striving to expand my knowledge and s
 <h2 align="center">Reach me out on:</h2>
 <p align="center">
 <a href="mailto: soufianeargane800@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/soufianeargane/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/soufiane-argane-526112256/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://www.instagram.com/soufiane_thrn/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
