@@ -13,7 +13,7 @@ class Me extends Human {
   constructor() {
     super();
     this.name = "Soufiane Argane";
-    this.age = 21;
+    this.age = new Date().getFullYear() - 2001;
     this.location = "Marrakesh, Morocco";
     this.education = {
       major: "web development",
