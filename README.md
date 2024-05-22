@@ -6,20 +6,27 @@ As a junior web developer, I am constantly striving to expand my knowledge and s
 
 <h2 align="center">About me:</h2>
  
-```php
-  <?php
-    class About extends Me {
-      public $name = "Soufiane Argane";
-      public $age = 21;
-      public $location = "Marrakesh, Morroco";
-      public $education = array(
-        "major" => "web development",
-        "school" => "YouCode"
-      );
-      public $skills = array("Problem soving", "Logical thinking", "Perseverance");
-      public $interests = array("chess", "football", "music", "Movies");
-    }
-  ?>
+```js
+import { Human } from "earth";
+
+class Me extends Human {
+  constructor() {
+    super();
+    this.name = "Soufiane Argane";
+    this.age = 21;
+    this.location = "Marrakesh, Morocco";
+    this.education = {
+      major: "web development",
+      school: "YouCode"
+    };
+    this.skills = ["Problem solving", "Logical thinking", "Perseverance"];
+    this.interests = ["chess", "football", "music", "movies"];
+    this.socialMedia = {
+        instagram: "instagram.com/soufiane_thrn",
+        linkedin: "linkedin.com/in/soufiane-argane-526112256",
+      };
+  }
+}
 ```
  
 <h2 align="center">Languages and Tools:</h2>
